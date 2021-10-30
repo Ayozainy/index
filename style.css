@@ -35,11 +35,10 @@ h1 {
 box-sizing: border-box;}
 
 .image {
-    margin-top: -70px; 
-    width: 100px;
+   width: 100px;
     height:100px;
-    margin-left: 600px;
-    
+    margin: auto;
+  
     }
 
 
